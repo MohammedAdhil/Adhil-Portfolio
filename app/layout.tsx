@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Mohammed Adhil — Frontend Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Frontend Engineer and Product Designer, currently at Dubai. Focused on interfaces and experiences.",
     url: "https://mohammed-adhil-portfolio.vercel.app/",
     siteName: "https://mohammed-adhil-portfolio.vercel.app/",
     images: [
