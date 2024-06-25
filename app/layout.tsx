@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "dubai",
     "software",
     "software developer",
     "portfolio",
@@ -37,17 +37,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "Mohammed Adhil — Frontend Engineer",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+    url: "https://mohammed-adhil-portfolio.vercel.app/",
+    siteName: "https://mohammed-adhil-portfolio.vercel.app/",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://github.com/MohammedAdhil/Adhil-Portfolio/assets/91864779/d973abce-2035-4f69-b2fb-3e690a4b9a24",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Mohammed Adhil — Frontend Engineer",
       },
     ],
     locale: "en-US",
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Mohammed Adhil — Frontend Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
+      "Frontend Engineer and Product Designer, currently at Dubai. Focused on interfaces and experiences.",
+    creator: "Mohammed Adhil",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://github.com/MohammedAdhil/Adhil-Portfolio/assets/91864779/d973abce-2035-4f69-b2fb-3e690a4b9a24",
     ],
   },
   robots: {
