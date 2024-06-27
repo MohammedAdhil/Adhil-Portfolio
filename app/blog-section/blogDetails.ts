@@ -19,7 +19,7 @@ export const certificationDetails = [
   {
     title: "NACTET MERN Stack Certification",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQGLExo4fbXp1w/feedshare-shrink_800/0/1718878247513?e=1721865600&v=beta&t=gSjTXVcDCrxyj2Z02h07eoxOFUToh761KVCRNDLjQLM",
+      "https://github.com/MohammedAdhil/Adhil-Portfolio/assets/91864779/400fc741-187d-4848-accc-567836340a31",
     date: "JAN 2023",
     url: "https://drive.google.com/file/d/1Wb1VeDVMFkjKH84eu-X_LS72rd1yNikZ/view",
     available: true,
